@@ -1,0 +1,45 @@
+HelloWorld.java
+compile - JDK (JRE & JVM)
+HelloWorld.class
+execute - JRE
+
+JDK - 
+
+JRE - 
+
+JVM - Java Virtual Machine - machine level code
+
+
+ - Class - SmartPhone (Name, OS, $, CamSpecs)
+ 
+ - Object - State/Behaviour (Pixel, Android, $500, xxMP)
+  
+ - Abstraction -
+ 
+ - Encapsulation
+ 
+ - Inheritance - Android.class (Android features) - parent
+ 
+ - Polymorphism - one name many forms. Video Calling (meet, hangouts, skype, facetime)
+ 	- overloading - same method diff forms.
+ 	- overriding
+ 	
+ Naming Convention:
+ Class - uppercase-camelCase (Constructor)
+ methods/variables - camelCase
+  	
+ Packages:
+ xxx.yyy.zzz.abcd
+ com.ss.jb.data.else.else
+ com.ss.jb.ui
+ com.ss.jb.validation
+ gov.
+ org.
+ 
+ 
+ final
+  - class: you cannot inherit (extends)
+  - var: value won't change - CONSTANT
+  - method: can't override.
+ 
+ 
